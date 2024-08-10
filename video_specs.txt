@@ -1,0 +1,24 @@
+
+
+
+####################REAL VIDEOS####################
+
+
+Mean Height: 1080.0 
+
+Mean Width: 1920.0 
+
+Mean Lenght: 29.64 
+
+
+
+
+####################FAKE VIDEOS####################
+
+
+Mean Height: 1080.0 
+
+Mean Width: 1920.0 
+
+Mean Lenght: 35.25479166666666 
+
